@@ -1,4 +1,4 @@
-# 👋 Hola, soy Fernando Gorostieta
+# 👋 Hola, soy Fernando
 
 🎓 Estudiante de Ingeniería en Desarrollo de Software — Universidad Tecmilenio  
 💻 Desarrollador full-stack y académico en ciencia de datos  
@@ -60,5 +60,5 @@ En este perfil encontrarás tanto **proyectos académicos destacados** como **ej
 
 ## 📈 Estadísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ferogv&show_icons=true&theme=dark)  
+![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=ferogv&show_icons=true&theme=dark](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ferogv&show_icons=true&theme=dark))  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ferogv&layout=compact&theme=dark)
