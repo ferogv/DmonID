@@ -1,6 +1,6 @@
 # 👋 Hola, soy Fernando
 
-🎓 Estudiante de Ingeniería en Desarrollo de Software — Universidad Tecmilenio  
+🎓 Ingeniero en Desarrollo de Software —  Egresado de la Universidad Tecmilenio  
 💻 Desarrollador full-stack y académico en ciencia de datos  
 
 Me apasiona crear aplicaciones útiles y reproducibles, integrando buenas prácticas de desarrollo, seguridad y DevOps.  
